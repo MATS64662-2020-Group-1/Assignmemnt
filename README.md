@@ -12,3 +12,9 @@ As a group, a program to perform image-based physics (diffusion, thermal conduct
 - Microstructure images from your research work, scientific literature and/or the provided image database
 
 This is an application of what has been covered in your Python and Git tutorials. The work should include documentation, examples and test cases with any further desired functionality added.
+
+## First Task: Image Analysis
+
+Assigned to: Joshua Collins
+
+This task involves obtaining microstructural images from research work, scientific literature and/or the provided image database. It is important that full permission is acquired when using the images to avoid any copyright issues. The images will be pre-processed accordingly so they can be imported into an FE simulation e.g. through segmentation, mesh generation, removing speckle noise.
