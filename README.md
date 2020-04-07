@@ -2,21 +2,13 @@
 
 This is the repository for the Research Software Engineering Practice module of the AMS CDT. 
 
-## Aim of the unit and of the assignment
+## Aim of the Unit and of the Assignment
 
-The aim of the this course is to learn about modern software engineering practice, particularly to learn about python, version control and colaborating on code development using the GitHub workflow.
+The aim of this course is to learn about modern software engineering practice, particularly to learn about Python, version control and collaborating on code development using the GitHub workflow.
 
-As a group, you should develop a program to perform image-based physics (diffusion, thermal conduction, solid mechanics etc.) simulations using:
+As a group, a program to perform image-based physics (diffusion, thermal conduction, solid mechanics etc.) simulations should be developed using:
 
-- available open-source FE and image-analysis packages
-- microstructure images from your research work, scientific literature and/or the provided image database
+- Available open-source FE and image-analysis packages
+- Microstructure images from your research work, scientific literature and/or the provided image database
 
-this is an application of what you have already covered in your python and git tutorials. Your work should include:
-
-- documentation
-- examples
-- test cases
-
-Add any further functionality as you wish.
-
-Marks will be allocated based on the number and quality of your contributions as tracked by github [Pull Requests](https://github.com/MATS64662-2020-Group-1/xxxx/pulls) and by your participation in discussions, as recorded in [Issues](https://github.com/MATS64662-2020-Group-1/xxxx/issues).
+This is an application of what has been covered in your Python and Git tutorials. The work should include documentation, examples and test cases with any further desired functionality added.
