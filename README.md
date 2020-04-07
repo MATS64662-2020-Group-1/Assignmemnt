@@ -34,3 +34,15 @@ In terms of finding the FE packages, a simple Google search of ‘FE packages in
 Assigned to: Frances Livera + Sam Lister
 
 The code and examples should be documented correctly and clearly e.g. through using comment lines. It is not advised that a Word report is created as it will be seen as a binary file in GitHub and not as a gradual/updated document. Instead, in a Git repository, a text file can be created which can be marked up and changes can be seen clearly i.e. in pull requests. Latex is recommended as it is easier to manage on GitHub and easier to assess. There is no page limit for this report.
+
+## GitHub Management and Collaboration
+
+Assigned to: All group members
+
+Grading is based upon how the project is managed, how the group collaborates on GitHub, how issues are raised and through pull requests. The quality of the technical job is not critical to the assessment.
+
+When committing in the report, commits should show that the whole file has not just been committed, but instead frequently updated and approved by group members. Make sure the commit message is descriptive and try not to mix too many commits together. The commits should be atomic i.e. if a commit needs to be reverted, and only one functionality is causing an error, then the whole commit will need to be reverted regardless of whether the other functionalities within the commit caused an error or not. If commits are not atomic when reverting, then each functionality will need to be added separately, which is inconvenient. 
+
+A set of commits that make up a functionality are known as features. Features should be created in separate branches and merged into a main branch. However, before merging, a pull request should be raised so that the group can review and approve of the pull request. If not, the changes will be biased.
+
+Marks will be allocated based on the number and quality of your contributions as tracked by GitHub Pull Requests and by your participation in discussions, as recorded in Issues.
